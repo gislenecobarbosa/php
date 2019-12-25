@@ -6,7 +6,7 @@
 
 	<body>
 		<?php
-			echo 'Teste';
+			echo 'Olá mundo';
 		?>
 	</body>
 
